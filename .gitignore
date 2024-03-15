@@ -16,3 +16,11 @@ saves/
 shaderpacks/
 resourcepacks/
 mods/OptiFine_1.12.2_HD_U_G5.jar
+options.txt
+optionsof.txt
+config/chattweaks.cfg
+config/tconstruct_oredictcache.dat
+config/xaerominimap_entities.json
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
+config/AppliedEnergistics2/VersionChecker.cfg
