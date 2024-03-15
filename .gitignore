@@ -24,3 +24,8 @@ config/xaerominimap_entities.json
 config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
 config/AppliedEnergistics2/VersionChecker.cfg
+config/TwitchIntegration/twitch_channels.json
+config/startuptimer/startup_times.json
+fancymenu_data/last_world.fmdata
+XaerosWorldMap/
+XaerosWaypoints/
