@@ -1,9 +1,18 @@
 ## 1.2.1
 
+### Mods Updated
+
+- AE2 Fluid Crafting
+
 ### Added
 
 - Added NetherEnding Ores
 - Added Ore Berries
+
+### Removed
+
+- BeeBetterAtBees
+- Emojiful
 
 ### Changed
 
