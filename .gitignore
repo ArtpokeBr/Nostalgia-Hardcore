@@ -26,8 +26,8 @@ config/AppliedEnergistics2/items.csv
 config/AppliedEnergistics2/VersionChecker.cfg
 config/TwitchIntegration/twitch_channels.json
 fancymenu_data/last_world.fmdata
-XaerosWorldMap/
-XaerosWaypoints/
+XaeroWaypoints
+XaeroWorldMap
 config/jei/worldSettings.cfg
 fancymenu_data/default_scale_set.fm
 vintagefix/transformerCache/jarDiscoverer.cache
