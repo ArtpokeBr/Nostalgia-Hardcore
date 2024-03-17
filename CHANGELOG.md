@@ -1,22 +1,16 @@
-## 1.2.1
+## 1.2.2
 
 ### Mods Updated
 
-- AE2 Fluid Crafting
+-
 
 ### Added
 
-- Added NetherEnding Ores
-- Added Ore Berries
-
-### Removed
-
-- BeeBetterAtBees
-- Emojiful
+- Content Tweaker
+- A New Type of BuildCraft Chipset, Copper!
 
 ### Changed
 
-- Added and Customized Ore Generation in the Nether.
-- Increased Chance to Generate Thaumcraft's Magical Forest Biome.
-- Disabled On Demand Animated Textures (CensoredASM Config)
+- Better Organized Internal Scripts
+- Logistic Pipes Raw Chipsets can now also be made using BuildCraft Chipsets
 
