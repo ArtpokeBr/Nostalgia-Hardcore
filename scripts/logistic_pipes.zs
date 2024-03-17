@@ -1,4 +1,12 @@
 
+/*
+██      ██████  
+██      ██   ██ 
+██      ██████  
+██      ██      
+███████ ██                  
+*/
+
 //Raw Basic Chipset
 recipes.addShapedMirrored(<logisticspipes:chip_basic_raw> * 4, [[<ore:sand>, <contenttweaker:copper_chipset>],[<contenttweaker:copper_chipset>, <ore:sand>]]);
 //Raw Advanced Chipset
