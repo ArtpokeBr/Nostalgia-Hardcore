@@ -30,5 +30,6 @@ XaeroWaypoints
 XaeroWorldMap
 config/jei/worldSettings.cfg
 fancymenu_data/default_scale_set.fm
-vintagefix/transformerCache/jarDiscoverer.cache
+vintagefix/transformerCache/
 config/startuptimer/
+scripts/recipes.zs
