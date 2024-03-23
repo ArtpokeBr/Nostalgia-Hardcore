@@ -2,13 +2,15 @@
 
 ### Mods Updated
 
--
+- Xaeros Minimap
+- Xaeros WorldMap
 
 ### Added
 
 - (Mod) Content Tweaker
 - A New Type of BuildCraft Chipset, Copper!
 - Buildcraft RF: ReFluxified
+- Cherished Worlds
 
 ### Changed
 
