@@ -30,3 +30,6 @@ AssemblyTable.addRecipe("hardcore_gold_chipset", <buildcraftsilicon:redstone_chi
 AssemblyTable.addRecipe("hardcore_quartz_chipset", <buildcraftsilicon:redstone_chipset:3>, 2500,[<ore:dustRedstone>, <ore:gemQuartz>]);
 //Diamond Chipset
 AssemblyTable.addRecipe("hardcore_diamond_chipset", <buildcraftsilicon:redstone_chipset:4>, 10000,[<ore:dustRedstone>, <ore:gemDiamond>]);
+
+//Adding a Recipe to the Filler
+recipes.addShaped(<buildcraftbuilders:filler>, [[<ore:dyeBlack>, <buildcraftcore:marker_volume>, <ore:dyeBlack>],[<ore:dyeYellow>, <ore:craftingTableWood>, <ore:dyeYellow>], [<ore:gearGold>, <ore:chest>, <ore:gearGold>]]);
