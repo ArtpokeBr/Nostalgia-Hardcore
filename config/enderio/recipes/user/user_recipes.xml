@@ -3,7 +3,7 @@
 
 <!-- Fixing Barley Sag Milling -->
   <recipe name="Sagmill: Barley"  disabled="true"/>
-  <recipe name="Sagmill: Barley" required="false">
+  <recipe name="Sagmill: Barley with HarvestCraft" required="false">
     <sagmilling energy="800">
       <input name="cropBarley"/>
       <output name="natura:materials:1" amount="2" />
