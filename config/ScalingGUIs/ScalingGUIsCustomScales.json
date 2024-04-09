@@ -5,10 +5,11 @@
   "customIndividualGuiScales": {},
   "customGroupGuiScales": {},
   "loggedGuiClassNames": [
+    "net.minecraft.client.gui.inventory.GuiInventory",
     "net.minecraft.client.gui.GuiMainMenu",
     "net.minecraft.client.gui.GuiWorldSelection",
     "net.minecraft.client.gui.GuiScreenWorking",
-    "net.minecraft.client.gui.inventory.GuiInventory",
+    "net.blay09.mods.chattweaks.gui.chat.GuiChatExt",
     "net.minecraft.client.gui.GuiIngameMenu",
     "net.minecraft.client.gui.GuiOptions",
     "net.minecraft.client.gui.GuiVideoSettings",
