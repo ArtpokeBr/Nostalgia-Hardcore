@@ -1,25 +1,28 @@
-## 1.2.2
+## 1.3.0
 
 ### Mods Updated
 
-- Xaeros Minimap
-- Xaeros WorldMap
+- Roughly Enough ID's
+- Alfheim
+- Aqua Acrobatics
+- Had Enough Items
+- NotEnoughEnergistics
+- VintageFix
+- AE2 Fluid Crafting
+- Config Anytime
+- Mrs Crayfish Furniture -> Maintained Fork by ACGaming.
 
 ### Added
 
-- (Mod) Content Tweaker
-- A New Type of BuildCraft Chipset, Copper!
-- Buildcraft RF: ReFluxified
-- Cherished Worlds
+- 
 
 ### Changed
 
-- Better Organized Internal Scripts.
-- Logistic Pipes Raw Chipsets can now also be made using BuildCraft Chipsets.
-- Hidden Just Enough Resources Enchantment Tab
-- Added More Info to Just Enough Resources
-- Added more Materials for Forestry Backpacks
+- Forestry Fertilizer can now be properly made with Barley.
+- Forestry Compost cannot be made with Barley Anymore.
+- Thermal Expansion's Sawmill can now Saw Vanilla Planks into Sticks.
+- Logistic Pipes FPGA's don't require Redstone Chipsets now.
 
 ### Removed
 
-- Vllage Names (Passively Consuming Server TPS out of nowhere)
+- 
